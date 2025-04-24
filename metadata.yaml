@@ -1,0 +1,31 @@
+_repo: Vikings-of-to-day-b-Or-life-and-medical-work-among-the-fishermen-of-Labrador_75927
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grenfell, Wilfred Thomason, Sir
+    alias: Grenfell, Wilfred T.
+    birthdate: 1865
+    deathdate: 1940
+    gutenberg_agent_id: '8428'
+    url: http://www.gutenberg.org/2009/agents/8428
+    wikipedia: https://en.wikipedia.org/wiki/Wilfred_Grenfell
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75927'
+language: en
+pgterms:marc904: https://archive.org/details/b24868723/page/n7/mode/2up
+pgterms:marc905: 20241213001741grenfell
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: Fiona Holmes and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive.
+publication_note: '  $aNew York :$bFlemng H. Revell Company, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Vikings of to-day : $b Or, life and medical work among the fishermen of Labrador'
+url: http://www.gutenberg.org/ebooks/75927

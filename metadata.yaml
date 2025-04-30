@@ -1,5 +1,8 @@
 _repo: Vikings-of-to-day-b-Or-life-and-medical-work-among-the-fishermen-of-Labrador_75927
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75927-h/images/cover.jpg
 creator:
   author:
     agent_name: Grenfell, Wilfred Thomason, Sir
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8428
     wikipedia: https://en.wikipedia.org/wiki/Wilfred_Grenfell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75927#Vikings-of-to-day-b-Or-life-and-medical-work-among-the-fishermen-of-Labrador
 gutenberg_issued: '2025-04-21'
 gutenberg_type: Text
 identifiers:
